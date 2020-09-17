@@ -1,0 +1,21 @@
+.box {
+    width: 100%;
+    height: 100vh;
+}
+
+.box .box1 {
+    width: 50%;
+    height: 50%;
+    background-color: red;
+}
+
+.box .box2 {
+    width: 50%;
+    height: 50%;
+    background-color: orange;
+}
+.box .box2 .box__col1 {
+    width: 50%;
+    height: 50%;
+    background-color: orchid;
+}

@@ -1,0 +1,19 @@
+.header {
+    width: 100%;
+    height: 75px;
+    border-radius: 3px;
+    box-shadow: 2px 3px 3px rgb(122, 118, 118);
+    align-items: center;
+    
+} 
+
+.txt a{
+    margin-top: 250px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 250px;
+    font-size: 25px;
+    color: #070404;
+    text-decoration: none;
+    font-family: 'Baloo Tammudu 2', cursive;
+}
